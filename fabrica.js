@@ -17,3 +17,4 @@ let piezasSobrantes = totalPiezas % capacidadCaja;
 console.log(`En 8 horas de trabajo se fabricaron un total de ${totalPiezas} piezas.`);
 console.log(`Se llenaron ${cajasLlenas} cajas de 12 piezas.`);
 console.log(`Quedaron ${piezasSobrantes} piezas sueltas.`);
+    
